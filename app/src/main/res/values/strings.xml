@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Smart Tour</string>
+    <string name="we_value_your_feedback">We value your feedback!</string>
+    <string name="rate_your_experience">Rate your experience:</string>
+    <string name="write_your_review">Write your review:</string>
+    <string name="enter_your_review_here">Enter your review here</string>
+    <string name="submit_feedback">Submit Feedback</string>
+    <string name="proceed">Proceed</string>
+
+    <string-array name="place_types">
+        <item>Hotel</item>
+        <item>Attraction</item>
+        <item>Job_place</item>
+    </string-array>
+
+</resources>
+

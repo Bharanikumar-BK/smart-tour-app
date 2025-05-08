@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336429197939",
+    "project_id": "smart-tour-7dd2b",
+    "storage_bucket": "smart-tour-7dd2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336429197939:android:cc911eef07d1d93736d806",
+        "android_client_info": {
+          "package_name": "com.example.smarttour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmKWxPt-iECo-i4EsFpnlUa7X8ACNrRrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

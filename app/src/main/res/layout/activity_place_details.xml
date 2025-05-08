@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/yel">
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/Name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Name" />
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email" />
+
+    <EditText
+        android:id="@+id/dateEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Booking Date (DDMMYYYY)" />
+
+    <EditText
+        android:id="@+id/timeEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Booking Time (HHMM)" />
+
+    <TextView
+        android:id="@+id/educationTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Education Level"
+        android:clickable="true" />
+
+    <Button
+        android:id="@+id/bookButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Book" />
+
+    <Button
+        android:id="@+id/applyButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Apply" />
+</LinearLayout>
